@@ -2,6 +2,8 @@
 
 A canvas that produces SVG output. This is essentially a fork of the [SeasideDynamicSVG](http://www.squeaksource.com/SeasideDynamicSVG.html) project, just without the dependency on Seaside.
 
+> NOTE: This project is in an early stage, be sure to have a look at the issues to get an idea of its limitations.
+
 ## Installation
 
 ```
