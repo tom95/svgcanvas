@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'src/SVGCanvas.package' : #SquotCypressCodeSerializer
+	'src/SVGCanvas.package' : #SquotCypressCodeSerializer,
+	'src/BaselineOfSVGCanvas.package' : #SquotCypressCodeSerializer
 }

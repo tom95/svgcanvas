@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSVGCanvas",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
