@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGAnimationTransformTag",
+	"pools" : [
+		 ],
+	"super" : "SVGAnimationBrush",
+	"type" : "normal" }

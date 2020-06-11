@@ -1,0 +1,3 @@
+printing
+toSVGString
+	^contents toSVGString

@@ -1,0 +1,15 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"docType",
+		"svgTag" ],
+	"name" : "SVGRoot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

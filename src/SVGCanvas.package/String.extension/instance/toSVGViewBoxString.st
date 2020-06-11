@@ -1,0 +1,4 @@
+*SVGCanvas
+toSVGViewBoxString
+
+	^ self

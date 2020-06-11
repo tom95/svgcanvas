@@ -1,0 +1,15 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"defaultRelative",
+		"pathStream" ],
+	"name" : "SVGPath",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

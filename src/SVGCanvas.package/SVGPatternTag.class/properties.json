@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"patternTransformList" ],
+	"name" : "SVGPatternTag",
+	"pools" : [
+		 ],
+	"super" : "SVGPaintBrush",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+pathString
+
+	^ pathStream contents

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bias:" : "go 4/15/2008 20:21",
+		"divisor:" : "go 4/15/2008 20:21",
+		"edgeMode:" : "go 4/15/2008 20:22",
+		"kernelMatrix:" : "go 4/15/2008 20:21",
+		"kernelUnitLength:" : "go 4/15/2008 20:23",
+		"order:" : "go 4/15/2008 20:20",
+		"preserveAlpha:" : "go 4/15/2008 20:23",
+		"tag" : "go 4/15/2008 20:20",
+		"targetX:" : "go 4/15/2008 20:21" } }

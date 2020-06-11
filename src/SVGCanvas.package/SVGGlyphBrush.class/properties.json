@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"path" ],
+	"name" : "SVGGlyphBrush",
+	"pools" : [
+		 ],
+	"super" : "SVGTag",
+	"type" : "normal" }

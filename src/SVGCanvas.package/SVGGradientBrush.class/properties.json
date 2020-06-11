@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gradientTransformList" ],
+	"name" : "SVGGradientBrush",
+	"pools" : [
+		 ],
+	"super" : "SVGPaintBrush",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGFloodFilterTag",
+	"pools" : [
+		 ],
+	"super" : "SVGFilterPrimitive",
+	"type" : "normal" }

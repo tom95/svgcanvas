@@ -1,0 +1,3 @@
+accessing
+toSVGPaint
+	^ self generateURL

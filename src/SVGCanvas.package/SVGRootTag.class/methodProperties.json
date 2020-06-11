@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"baseProfile:" : "hkl 4/12/2008 12:56",
+		"clip:" : "hkl 4/16/2008 17:47",
+		"contentScriptType:" : "hkl 4/12/2008 12:56",
+		"contentStyleType:" : "hkl 4/12/2008 12:56",
+		"drawWith:" : "hkl 7/11/2010 11:43",
+		"embedSVGComponent:width:height:" : "hkl 7/11/2010 12:21",
+		"height:" : "hkl 4/12/2008 11:32",
+		"initialize" : "hkl 4/14/2008 15:43",
+		"overflow:" : "hkl 4/16/2008 16:57",
+		"preserveAspectRatio:" : "hkl 4/12/2008 12:54",
+		"svgCanvas" : "hkl 4/10/2008 14:46",
+		"svgCanvas:" : "hkl 4/10/2008 14:46",
+		"tag" : "hkl 4/10/2008 11:46",
+		"version:" : "hkl 4/12/2008 12:55",
+		"viewBox:" : "hkl 4/13/2008 14:10",
+		"width:" : "hkl 4/12/2008 11:32",
+		"with:" : "hkl 4/10/2008 14:50",
+		"zoomAndPan:" : "hkl 4/12/2008 12:55" } }

@@ -1,0 +1,20 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"canvas",
+		"paragraph",
+		"bounds",
+		"curPos",
+		"font",
+		"foregroundColor",
+		"emphasis" ],
+	"name" : "SVGCharacterScanner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

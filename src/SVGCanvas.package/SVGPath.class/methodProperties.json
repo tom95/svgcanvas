@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"new" : "hkl 4/17/2008 10:17" },
+	"instance" : {
+		"addPointToPath:" : "hkl 4/17/2008 10:20",
+		"addToPath:" : "hkl 4/17/2008 10:19",
+		"arcTo:radius:rotation:large:sweep:" : "hkl 4/17/2008 10:20",
+		"arcTo:radius:rotation:large:sweep:relative:" : "hkl 4/17/2008 10:20",
+		"closePath" : "hkl 4/17/2008 10:20",
+		"curveWithAll:" : "hkl 4/17/2008 10:20",
+		"curveWithAll:relative:" : "hkl 4/17/2008 10:20",
+		"defaultIsAbsolute" : "hkl 4/17/2008 10:21",
+		"defaultIsRelative" : "hkl 4/17/2008 10:21",
+		"drawPieSegmentFrom:angle:length:" : "hkl 4/17/2008 10:20",
+		"drawPieSegmentFrom:to:length:" : "hkl 4/17/2008 10:20",
+		"initialize" : "hkl 4/17/2008 13:15",
+		"lineTo:" : "hkl 4/17/2008 10:20",
+		"lineTo:relative:" : "hkl 4/17/2008 10:20",
+		"moveTo:" : "hkl 4/17/2008 10:20",
+		"moveTo:relative:" : "hkl 4/17/2008 10:20",
+		"pathString" : "hkl 4/17/2008 10:21" } }

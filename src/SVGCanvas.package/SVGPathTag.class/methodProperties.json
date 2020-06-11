@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPointToPath:" : "hkl 4/17/2008 10:26",
+		"addToPath:" : "ThomasCleenewerck 10/7/2009 08:46",
+		"arcTo:radius:rotation:large:sweep:" : "hkl 4/17/2008 10:26",
+		"arcTo:radius:rotation:large:sweep:relative:" : "hkl 4/17/2008 10:26",
+		"closePath" : "hkl 4/17/2008 10:26",
+		"curveWithAll:" : "hkl 4/17/2008 10:26",
+		"curveWithAll:relative:" : "hkl 4/17/2008 10:26",
+		"defaultIsAbsolute" : "hkl 4/17/2008 10:27",
+		"defaultIsRelative" : "hkl 4/17/2008 10:27",
+		"drawPieSegmentFrom:angle:length:" : "hkl 4/17/2008 10:27",
+		"drawPieSegmentFrom:to:length:" : "hkl 4/17/2008 10:27",
+		"lineTo:" : "hkl 4/17/2008 10:26",
+		"lineTo:relative:" : "hkl 4/17/2008 10:26",
+		"moveTo:" : "hkl 4/17/2008 10:27",
+		"moveTo:relative:" : "hkl 4/17/2008 10:27",
+		"openTag" : "hkl 4/17/2008 10:28",
+		"path" : "hkl 4/17/2008 10:27",
+		"path:" : "hkl 4/17/2008 10:31",
+		"tag" : " 9/4/08 18:19" } }

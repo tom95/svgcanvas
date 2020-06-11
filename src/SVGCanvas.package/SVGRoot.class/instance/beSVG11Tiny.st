@@ -1,0 +1,4 @@
+doctype
+beSVG11Tiny
+	
+	self docType: '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">'

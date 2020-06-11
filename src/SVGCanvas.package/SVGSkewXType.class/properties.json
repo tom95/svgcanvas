@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGSkewXType",
+	"pools" : [
+		 ],
+	"super" : "SVGTransformType",
+	"type" : "normal" }

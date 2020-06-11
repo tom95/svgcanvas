@@ -1,0 +1,4 @@
+doctype
+beSVG11Basic
+	
+	self docType: '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">'

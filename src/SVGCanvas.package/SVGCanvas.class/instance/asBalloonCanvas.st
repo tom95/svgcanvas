@@ -1,0 +1,4 @@
+balloon compatibility
+asBalloonCanvas
+
+     ^self

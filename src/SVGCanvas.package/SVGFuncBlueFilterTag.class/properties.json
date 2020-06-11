@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGFuncBlueFilterTag",
+	"pools" : [
+		 ],
+	"super" : "SVGComponentTransferSubElement",
+	"type" : "normal" }

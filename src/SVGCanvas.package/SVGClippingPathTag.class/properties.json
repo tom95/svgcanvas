@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGClippingPathTag",
+	"pools" : [
+		 ],
+	"super" : "SVGTag",
+	"type" : "normal" }

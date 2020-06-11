@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGCircleTag",
+	"pools" : [
+		 ],
+	"super" : "SVGShapeTag",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGSpecularLightingFilterTag",
+	"pools" : [
+		 ],
+	"super" : "SVGFilterPrimitive",
+	"type" : "normal" }

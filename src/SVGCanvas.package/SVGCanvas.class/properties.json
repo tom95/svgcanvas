@@ -1,0 +1,19 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"svgCanvas",
+		"origin",
+		"clipRect",
+		"currentColor",
+		"currentFont",
+		"convertCoordinates" ],
+	"name" : "SVGCanvas",
+	"pools" : [
+		 ],
+	"super" : "Canvas",
+	"type" : "normal" }

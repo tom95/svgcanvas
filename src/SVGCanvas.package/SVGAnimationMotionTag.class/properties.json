@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"path" ],
+	"name" : "SVGAnimationMotionTag",
+	"pools" : [
+		 ],
+	"super" : "SVGAnimationBrush",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGRotationType",
+	"pools" : [
+		 ],
+	"super" : "SVGTransformType",
+	"type" : "normal" }

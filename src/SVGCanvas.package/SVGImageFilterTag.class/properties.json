@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGImageFilterTag",
+	"pools" : [
+		 ],
+	"super" : "SVGFilterPrimitive",
+	"type" : "normal" }

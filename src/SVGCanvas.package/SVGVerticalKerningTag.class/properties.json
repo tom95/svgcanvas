@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGVerticalKerningTag",
+	"pools" : [
+		 ],
+	"super" : "SVGKerningBrush",
+	"type" : "normal" }

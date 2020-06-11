@@ -1,0 +1,4 @@
+*SVGCanvas
+toSVGString
+
+	^ 'none'

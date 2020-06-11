@@ -1,0 +1,2 @@
+*SVGCanvas
+renderOn: aRenderer

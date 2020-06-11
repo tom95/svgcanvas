@@ -1,0 +1,17 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tagsNeedNamespace",
+		"currentBrush",
+		"parentBrush",
+		"document" ],
+	"name" : "SVGCanvasRenderer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

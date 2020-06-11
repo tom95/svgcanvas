@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGTextTag",
+	"pools" : [
+		 ],
+	"super" : "SVGTextPositioningBrush",
+	"type" : "normal" }

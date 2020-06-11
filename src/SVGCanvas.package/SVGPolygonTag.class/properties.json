@@ -1,0 +1,14 @@
+{
+	"category" : "SVGCanvas",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SVGPolygonTag",
+	"pools" : [
+		 ],
+	"super" : "SVGPolylineTag",
+	"type" : "normal" }
