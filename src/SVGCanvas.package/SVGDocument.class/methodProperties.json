@@ -2,13 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"beginWithView:do:" : "tobe 6/11/2020 12:56",
+		"beginWithView:do:" : "tobe 6/13/2020 13:24",
 		"closeTag:" : "tobe 6/11/2020 12:36",
 		"contents" : "tobe 6/11/2020 12:26",
 		"initialize" : "tobe 6/11/2020 12:49",
 		"nextPut:" : "tobe 6/11/2020 12:23",
 		"nextPutAll:" : "tobe 6/11/2020 12:23",
 		"nextPutAllEscaped:" : "tobe 6/11/2020 12:57",
-		"nextPutEscaped:" : "tobe 6/11/2020 15:51",
+		"nextPutEscaped:" : "tobe 6/13/2020 13:21",
 		"openTag:attributes:closed:" : "tobe 6/11/2020 12:39",
 		"print:" : "tobe 6/11/2020 15:13" } }

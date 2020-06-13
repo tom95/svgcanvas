@@ -10,8 +10,6 @@ drawString: s from: firstIndex to: lastIndex in: boundsRect font: fontOrNil colo
 		transform: [:t | t translate: base];
 		fill: c.
 	
-	(fontOrNil notNil and: [
-		Transcript showln: fontOrNil emphasis.
-		fontOrNil emphasis = TextEmphasis bold emphasisCode]) ifTrue: [SBWatch report: textShape bold for: 39382673].
+	(fontOrNil notNil and: [fontOrNil emphasis = TextEmphasis bold emphasisCode]) ifTrue: [textShape bold].
 	
 	textShape with: (s asString copyFrom: firstIndex to: lastIndex)
